@@ -46,6 +46,8 @@ This report provides a comprehensive overview of the planning and management of 
 
 [Full Report](https://github.com/Takosaga/spring_24/blob/main/project_management/Gamez_Article_Managment_System_powerpoint.pdf)
 
+[Presentation](https://github.com/Takosaga/spring_24/blob/main/project_management/Gamez_Article_Managment_System_powerpoint.pdf)
+
 ## Key Skills Demonstrated
 
 *   Agile Project Management (Scrum)
