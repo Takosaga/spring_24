@@ -1,3 +1,4 @@
+<br />
 # Article Management System Project: Agile Development Report
 
 This project report details the development of a custom article management system using an Agile (Scrum) approach. The system aims to address the inefficiencies of email-based review processes for academic journals.
@@ -42,6 +43,8 @@ This project tackles the challenges faced by academic journals relying on email 
 ## Conclusion
 
 This report provides a comprehensive overview of the planning and management of an Agile software development project for an article management system. It showcases the application of Scrum principles, risk management strategies, and quality control measures.
+
+[Full Report](https://github.com/Takosaga/spring_24/blob/main/project_management/Gamez_Article_Managment_System_powerpoint.pdf)
 
 ## Key Skills Demonstrated
 
