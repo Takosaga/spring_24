@@ -43,7 +43,7 @@ This project tackles the challenges faced by academic journals relying on email 
 
 This report provides a comprehensive overview of the planning and management of an Agile software development project for an article management system. It showcases the application of Scrum principles, risk management strategies, and quality control measures.
 
-[Full Report](https://github.com/Takosaga/spring_24/blob/main/project_management/Gamez_Article_Managment_System_powerpoint.pdf)
+[Full Report](https://github.com/Takosaga/spring_24/blob/main/project_management/Article%20Management%20System.pdf)
 
 [Presentation](https://github.com/Takosaga/spring_24/blob/main/project_management/Gamez_Article_Managment_System_powerpoint.pdf)
 
